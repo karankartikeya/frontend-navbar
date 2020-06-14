@@ -1,2 +1,0 @@
-# frontend-navbar
-NAVBAR PROTOTYPE
